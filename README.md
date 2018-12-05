@@ -7,4 +7,4 @@ The code files contained in this repo are as follows:
 - `mince_spy_latch.py` - The code to be used with the latch circuit and the external Raspberry Pi code in mince_spy_alert.py.
 - `mince_spy_solo.py` - The code to be used with a single Raspberry Pi attached directly to the circuit, no external Pi required.
 
-Read the blog, get involved, and build your own Santa Catcher!
+[Read the blog](https://www.modmypi.com/project-mince-spy), get involved, and build your own Santa Catcher!
